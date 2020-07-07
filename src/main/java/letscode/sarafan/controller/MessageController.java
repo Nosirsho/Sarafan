@@ -57,5 +57,4 @@ public class MessageController {
 
         messages.remove(message);
     }
-// Hello World!
 }
